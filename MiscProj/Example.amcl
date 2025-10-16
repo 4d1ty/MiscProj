@@ -1,0 +1,19 @@
+% Small nested AMCL example %
+
+[
+    "appName" => "MiniApp",
+    "debug" => true,
+
+    "database" => [
+        "host" => "localhost",
+        "credentials" => [
+            "username" => "admin",
+            "password" => "1234"
+        ]
+    ],
+
+    "features" => [
+        "logging",
+        [ "experimental" => false ]
+    ]
+]

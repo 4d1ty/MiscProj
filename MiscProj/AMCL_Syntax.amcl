@@ -1,0 +1,19 @@
+["key" => "value"]
+
+%Comment%
+
+[
+	"key" => [
+			"value1", 
+			"value2", 
+			[
+				"key2" => "value"
+			]
+		],
+		[
+			"boolean" => true
+		],
+		[
+			"numerics" => 3.14159
+		]
+]
