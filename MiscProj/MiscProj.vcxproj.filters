@@ -53,5 +53,6 @@
   <ItemGroup>
     <None Include="AMCL_Syntax.amcl" />
     <None Include="Example.amcl" />
+    <None Include="readme.md" />
   </ItemGroup>
 </Project>

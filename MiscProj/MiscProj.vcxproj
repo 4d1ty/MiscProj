@@ -142,6 +142,7 @@
   <ItemGroup>
     <None Include="AMCL_Syntax.amcl" />
     <None Include="Example.amcl" />
+    <None Include="readme.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
